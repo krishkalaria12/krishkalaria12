@@ -13,7 +13,7 @@
 
 # 🚀 Badges
 <p>
-  <img src="https://api.vaunt.dev/v1/github/entities/krishkalaria12/achievements?format=svg&limit=3" width="350" />
+  <img src="https://api.vaunt.dev/v1/github/entities/krishkalaria12/achievements?format=svg&limit=3" width="500" />
 </p>
 
 ### ✍️ Random Dev Quote
