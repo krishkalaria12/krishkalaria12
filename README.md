@@ -7,7 +7,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=krishkalaria12&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=krishkalaria12&theme=default&hide_border=false)<br/>
-[![trophy](https://github-profile-trophy.vercel.app/?username=krishkalaria12)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=krishkalaria12)](https://github.com/ryo-ma/github-profile-trophy)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishkalaria12&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=krishkalaria12)
 
